@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+faster-whisper
+python-dotenv
+chromadb
+ollama
+sentence-transformers
+uuid
+honcho
